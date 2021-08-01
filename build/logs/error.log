@@ -1,0 +1,8 @@
+2021/08/01 18:32:14 [emerg] 32442#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2021/08/01 18:33:07 [error] 32709#0: *4 open() "/workspaces/nginx/build/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.0", host: "localhost", referrer: "https://duohao-wenguang-codespace-nginx-4p9q67pvfqgg6-8080.githubpreview.dev/"
+2021/08/01 18:35:34 [emerg] 1000#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2021/08/01 18:35:34 [emerg] 1000#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2021/08/01 18:35:34 [emerg] 1000#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2021/08/01 18:35:34 [emerg] 1000#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2021/08/01 18:35:34 [emerg] 1000#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2021/08/01 18:35:34 [emerg] 1000#0: still could not bind()
